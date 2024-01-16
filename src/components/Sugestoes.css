@@ -1,0 +1,21 @@
+.sugestoes {
+  padding: 0.4em;
+  border: none;
+  border-radius: 5px;
+  margin: 3px;
+  cursor: pointer;
+  background-color: #464646;
+  color: white;
+  transition: all 250ms;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sugestoes img{
+  margin-left: 2px;
+}
+.sugestoes:hover {
+  background-color: #1b1b1b;
+  transform: scale(1.05);
+}
