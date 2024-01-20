@@ -29,4 +29,4 @@ Este é um aplicativo simples que fornece informações climáticas de uma cidad
 
 ### Imagens:
 <img height="400px" src="./readme_img/climaApp.PNG" alt="">
-<img height="400px" src="./readme_img/climaAppCelular.PNG" alt="">
+<img height="400px" src="./readme_img/climaAppCelular.png" alt="">
