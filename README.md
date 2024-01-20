@@ -28,5 +28,5 @@ Este é um aplicativo simples que fornece informações climáticas de uma cidad
 - API para a bandeira  https://flagsapi.com
 
 ### Imagens:
-<img height="400px" src="./readme_img/climaApp.PNG" alt="">
-<img height="400px" src="./readme_img/climaAppCelular.png" alt="">
+<img height="350px" src="./readme_img/climaApp.PNG" alt="">
+<img height="350px" src="./readme_img/climaAppCelular.png" alt="">
